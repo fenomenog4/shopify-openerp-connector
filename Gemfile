@@ -33,3 +33,4 @@ group :test do
 end
 
 gem 'shopify_app'
+gem 'ooor', '~> 1.6.5'
